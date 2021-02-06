@@ -1,0 +1,30 @@
+
+.DS_Store
+ui-testing/test-output/bullet_point.png
+ui-testing/test-output/collapseall.gif
+ui-testing/test-output/emailable-report.html
+ui-testing/test-output/failed.png
+ui-testing/test-output/index.html
+ui-testing/test-output/jquery-1.7.1.min.js
+ui-testing/test-output/junitreports/TEST-testModule.peopleAdding.PeopleAddingTest.xml
+ui-testing/test-output/navigator-bullet.png
+ui-testing/test-output/old/index.html
+ui-testing/test-output/old/PeopleAddingTestSuite/classes.html
+ui-testing/test-output/old/PeopleAddingTestSuite/groups.html
+ui-testing/test-output/old/PeopleAddingTestSuite/index.html
+ui-testing/test-output/old/PeopleAddingTestSuite/main.html
+ui-testing/test-output/old/PeopleAddingTestSuite/methods-alphabetical.html
+ui-testing/test-output/old/PeopleAddingTestSuite/methods-not-run.html
+ui-testing/test-output/old/PeopleAddingTestSuite/methods.html
+ui-testing/test-output/old/PeopleAddingTestSuite/People Adding Test.properties
+ui-testing/test-output/old/PeopleAddingTestSuite/reporter-output.html
+ui-testing/test-output/old/PeopleAddingTestSuite/testng.xml.html
+ui-testing/test-output/old/PeopleAddingTestSuite/toc.html
+ui-testing/test-output/passed.png
+ui-testing/test-output/PeopleAddingTestSuite/People Adding Test.html
+ui-testing/test-output/PeopleAddingTestSuite/People Adding Test.xml
+ui-testing/test-output/skipped.png
+ui-testing/test-output/testng-reports.css
+ui-testing/test-output/testng-reports.js
+ui-testing/test-output/testng-results.xml
+ui-testing/test-output/testng.css
